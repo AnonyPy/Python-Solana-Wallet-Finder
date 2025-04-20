@@ -8,8 +8,11 @@ Its time to public this script :)
 This script generating random private keys and validating, then check public key (wallet) balance and notify if balance > 0.0
 
 1 - Generate random private key
+
 2 - Checking private key has public key
+
 3 - Check public key balance
+
 4 - Report to your telegram by bot
 
 ---
@@ -27,8 +30,11 @@ pip install solders solana
 ### Initial TelegramBot
 
 1 - Make new telegram bot by @botfather
+
 2 - Copy telegram bot
+
 3 - Send first message to bot with your telegram
+
 4 - Replace [Bot_Token] and [Telegram_Username] with your token and usernam
 
 ---
