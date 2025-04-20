@@ -35,7 +35,7 @@ pip install solders solana
 
 3 - Send first message to bot with your telegram
 
-4 - Replace [Bot_Token] and [Telegram_Username] with your token and usernam
+4 - Replace [Bot_Token] and [Telegram_Username] with your token and usernam in solana_finder.py file
 
 ---
 ### Run script On Windows
