@@ -29,9 +29,9 @@ pip install solders solana
 
 ### Initial TelegramBot
 
-1 - Make new telegram bot by @botfather
+1 - Make new telegram bot by @botfather and create new bot by /newbot
 
-2 - Copy telegram bot
+2 - Copy telegram bot token
 
 3 - Send first message to bot with your telegram
 
