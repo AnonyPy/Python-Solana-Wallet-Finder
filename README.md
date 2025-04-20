@@ -4,6 +4,7 @@
 # Python Solana Wallet Finder
 
 Its time to public this script :)
+
 This script generating random private keys and validating, then check public key (wallet) balance and notify if balance > 0.0
 
 1 - Generate random private key
